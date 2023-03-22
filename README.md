@@ -48,7 +48,7 @@ data/log_data/2018/11/2018-11-12-events.json
 data/log_data/2018/11/2018-11-13-events.json
 ```
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
-![log-data](https://user-images.githubusercontent.com/32474126/101525452-a4059a00-398b-11eb-9fc5-4e5d57a0a86c.png)
+![log-data](https://github.com/ehabwasel/Data-Modeling-with-Postgres/blob/master/2.png)
 
 ## Database schema
 
