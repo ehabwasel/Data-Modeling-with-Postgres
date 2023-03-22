@@ -57,7 +57,7 @@ During the data modeling with the focus on normalization, the following tables w
 - the four dimension tables `users`, `artists`, `time`, `songs`
 
 Here you have a look at the Entity Relationship Diagram
-![sparkifiy_erd](https://user-images.githubusercontent.com/32474126/101626498-5b96bc80-3a1d-11eb-9e0f-7c7d59637323.png)
+![sparkifiy_erd](https://github.com/ehabwasel/Data-Modeling-with-Postgres/blob/master/diagram.png)
 
 ## ETL pipeline
 
